@@ -1,0 +1,6 @@
+{
+  "name": "JavaCodePoint - Java & Web Development Portal",
+  "description": "An interactive Java and web development portal featuring tutorials, code runner, logical programs, interview Q&A, MCQs & quizzes, and developer utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
